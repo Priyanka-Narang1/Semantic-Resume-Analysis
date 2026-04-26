@@ -55,7 +55,7 @@ def _load_sbert():
     cache_path = MODELS_DIR / "embeddings_cache" / "skill_embeddings.json"
     try:
         from sentence_transformers import SentenceTransformer
-        _sbert = SentenceTransformer("all-MiniLM-L6-v2")
+        _sbert = SentenceTransformer("paraphrase-MiniLM-L3-v2")
 
         if cache_path.exists():
             with open(cache_path) as f:
