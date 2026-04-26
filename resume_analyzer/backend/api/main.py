@@ -29,7 +29,10 @@ app = FastAPI(
 # Allow frontend to call this API (Updated for production/Vercel)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Allows all origins, including localhost and your Vercel deployment
+    allow_origins=[
+        "https://semantic-resume-analysis.vercel.app",
+        "http://localhost:5173",  # keep this for local dev
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
