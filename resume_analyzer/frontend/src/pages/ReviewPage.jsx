@@ -40,7 +40,7 @@ export default function ReviewPage({ inputs, onAnalyzed, onBack }) {
       if (res.data.success) onAnalyzed(res.data.data);
       else setError('Analysis failed. Please try again.');
     } catch (err) {
-      setError(err.response?.data?.detail || 'Server error. Make sure the backend is running on port 8000.');
+      setError(JSON.stringify(err.response?.data) || err.message || 'Unknown error');
     } finally { setLoading(false); }
   }
 
