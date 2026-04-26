@@ -19,15 +19,11 @@ To solve this, I engineered a data-driven **Smart Resume Analyzer** that replace
 
 Here is a look at the interactive React frontend in action:
 
-<p align="center">
-  <img src="docs/dashboard_1.png" width="45%" style="margin: 10px;" />
-  <img src="docs/dashboard_2.png" width="45%" style="margin: 10px;" />
-  <br/>
-  <img src="docs/dashboard_3.png" width="45%" style="margin: 10px;" />
-  <img src="docs/dashboard_4.png" width="45%" style="margin: 10px;" />
-  <br/>
-  <img src="docs/dashboard_5.png" width="92%" style="margin: 10px;" />
-</p>
+![Dashboard 1](docs/screencapture-localhost-3000-2026-04-26-16_25_11.png)
+![Dashboard 2](docs/screencapture-localhost-3000-2026-04-26-16_25_29.png)
+![Dashboard 3](docs/screencapture-localhost-3000-2026-04-26-16_28_28.png)
+![Dashboard 4](docs/screencapture-localhost-3000-2026-04-26-16_29_56.png)
+![Dashboard 5](docs/screencapture-localhost-3000-2026-04-26-16_30_23.png)
 
 ## Project Structure
 
