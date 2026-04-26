@@ -1,5 +1,5 @@
 # Web framework
-fastapi==0.111.0
+fastapi==0.109.0
 uvicorn==0.29.0
 python-multipart==0.0.9
 pydantic==2.7.1
@@ -11,13 +11,13 @@ pdfplumber==0.11.0
 python-docx==1.1.0
 
 # Core NLP + ML
-spacy==3.7.4
+spacy==3.8.3
 sentence-transformers==2.7.0
 scikit-learn==1.4.2
 numpy==1.26.4
 pandas==2.2.2
 
-# XGBoost + SHAP (explainability)
+# XGBoost + SHAP
 xgboost==2.0.3
 shap==0.45.0
 
