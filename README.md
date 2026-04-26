@@ -3,7 +3,6 @@
 AI-powered resume analysis with skill gap detection and explainable feedback.
 Built for B.Tech AI/ML second year project.
 
-[![Structure](https://img.shields.io/badge/Project-Structure-blue)](#project-structure)
 
 ## 🚨 The Problem
 Traditional Applicant Tracking Systems (ATS) and resume scorers are often flawed black-boxes. They reject highly capable candidates simply due to rigid keyword matching, failing to recognize **transferable skills** (e.g., penalizing a candidate for lacking "PyTorch" even if they have extensive "TensorFlow" experience). Furthermore, existing tools provide arbitrary "match percentages" without actionable feedback or evidence of *why* sections were scored poorly. 
@@ -15,6 +14,20 @@ To solve this, I engineered a data-driven **Smart Resume Analyzer** that replace
 2. **Evidence-grounded Feedback (XAI):** Rather than giving arbitrary scores, the system extracts precise sentences directly from your uploaded resume as undeniable "evidence" to explain *why* you received that score.
 3. **Data-Driven Severity Scoring:** Instead of treating all missing skills equally, it ranks dynamically detected gaps by "Severity" using an ML model trained against real-world job description frequencies.
 4. **Interactive Dashboard:** Complete React frontend providing visual score gauges, prioritized gap cards, and an AI-drawn learning timeline.
+
+## 📸 Application Screenshots
+
+Here is a look at the interactive React frontend in action:
+
+<p align="center">
+  <img src="docs/dashboard_1.png" width="45%" style="margin: 10px;" />
+  <img src="docs/dashboard_2.png" width="45%" style="margin: 10px;" />
+  <br/>
+  <img src="docs/dashboard_3.png" width="45%" style="margin: 10px;" />
+  <img src="docs/dashboard_4.png" width="45%" style="margin: 10px;" />
+  <br/>
+  <img src="docs/dashboard_5.png" width="92%" style="margin: 10px;" />
+</p>
 
 ## Project Structure
 
