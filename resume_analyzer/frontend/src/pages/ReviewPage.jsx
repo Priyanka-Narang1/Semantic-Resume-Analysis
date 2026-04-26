@@ -31,7 +31,8 @@ export default function ReviewPage({ inputs, onAnalyzed, onBack }) {
   async function handleProceed() {
     setError(''); setLoading(true);
     try {
-      const res = await axios.post('/analyze/text', {
+      const API_URL = "https://resume-analyzer-backend-wlsr.onrender.com";
+      const res = await axios.post(`${API_URL}/analyze/text`, {
         resume_text: inputs.resumeText,
         jd_text: inputs.jdText || null,
         target_role: inputs.targetRole || null

@@ -61,9 +61,10 @@ export default function UploadPage({ onParsed }) {
     setExtracting(true);
 
     try {
+      const API_URL = "https://resume-analyzer-backend-wlsr.onrender.com";
       const formData = new FormData();
       formData.append('file', file);
-      const res = await axios.post('/parse/file', formData, {
+      const res = await axios.post(`${API_URL}/parse/file`, formData, {
         headers: { 'Content-Type': 'multipart/form-data' },
         timeout: 15000
       });
