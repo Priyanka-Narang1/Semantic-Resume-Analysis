@@ -1,0 +1,76 @@
+{
+  "content": "Afreen Jamadar\nActive member of IIIT Committee in Third year\n\nSangli, Maharashtra : Email me on Indeed: indeed.com/r/Afreen:Jamadar/8baf379b705e37c6\n\nI wish to use my knowledge, skills and conceptual understanding to create excellent team\nenvironments and work consistently achieving organization objectives believes in taking initiative\nand work to excellence in my work.\n\nWORK EXPERIENCE\n\nActive member of IIIT Committee in Third year\n\nCisco Networking :  Kanpur, Uttar Pradesh\n\norganized by Techkriti IIT Kanpur and Azure Skynet.\nPERSONALLITY TRAITS:\n• Quick learning ability\n• hard working\n\nEDUCATION\n\nPG:DAC\n\nCDAC ACTS\n\n2017\n\nBachelor of Engg in Information Technology\n\nShivaji University Kolhapur :  Kolhapur, Maharashtra\n\n2016\n\nSKILLS\n\nDatabase (Less than 1 year), HTML (Less than 1 year), Linux. (Less than 1 year), MICROSOFT\nACCESS (Less than 1 year), MICROSOFT WINDOWS (Less than 1 year)\n\nADDITIONAL INFORMATION\n\nTECHNICAL SKILLS:\n\n• Programming Languages: C, C++, Java, .net, php.\n• Web Designing: HTML, XML\n• Operating Systems: Windows […] Windows Server 2003, Linux.\n• Database: MS Access, MS SQL Server 2008, Oracle 10g, MySql.\n\nhttps://www.indeed.com/r/Afreen:Jamadar/8baf379b705e37c6?isid=rex:download&ikw=download:top&co=IN",
+  "annotation": [
+    {
+      "label": ["Email Address"],
+      "points": [
+        {
+          "start": 1155,
+          "end": 1198,
+          "text": "indeed.com/r/Afreen:Jamadar/8baf379b705e37c6"
+        }
+      ]
+    },
+    {
+      "label": ["Skills"],
+      "points": [
+        {
+          "start": 743,
+          "end": 1140,
+          "text": "Database (Less than 1 year), HTML (Less than 1 year), Linux. (Less than 1 year), MICROSOFT\nACCESS (Less than 1 year), MICROSOFT WINDOWS (Less than 1 year)\n\nADDITIONAL INFORMATION\n\nTECHNICAL SKILLS:\n\n• Programming Languages: C, C++, Java, .net, php.\n• Web Designing: HTML, XML\n• Operating Systems: Windows […] Windows Server 2003, Linux.\n• Database: MS Access, MS SQL Server 2008, Oracle 10g, MySql."
+        }
+      ]
+    },
+    {
+      "label": ["Graduation Year"],
+      "points": [{ "start": 729, "end": 732, "text": "2016" }]
+    },
+    {
+      "label": ["College Name"],
+      "points": [
+        { "start": 675, "end": 702, "text": "Shivaji University Kolhapur " }
+      ]
+    },
+    {
+      "label": ["Degree"],
+      "points": [
+        {
+          "start": 631,
+          "end": 672,
+          "text": "Bachelor of Engg in Information Technology"
+        }
+      ]
+    },
+    {
+      "label": ["Graduation Year"],
+      "points": [{ "start": 625, "end": 629, "text": "2017\n" }]
+    },
+    {
+      "label": ["College Name"],
+      "points": [{ "start": 614, "end": 622, "text": "CDAC ACTS" }]
+    },
+    {
+      "label": ["Degree"],
+      "points": [{ "start": 606, "end": 611, "text": "PG:DAC" }]
+    },
+    {
+      "label": ["Email Address"],
+      "points": [
+        {
+          "start": 104,
+          "end": 147,
+          "text": "indeed.com/r/Afreen:Jamadar/8baf379b705e37c6"
+        }
+      ]
+    },
+    {
+      "label": ["Location"],
+      "points": [{ "start": 62, "end": 67, "text": "Sangli" }]
+    },
+    {
+      "label": ["Name"],
+      "points": [{ "start": 0, "end": 13, "text": "Afreen Jamadar" }]
+    }
+  ],
+  "extras": null
+}

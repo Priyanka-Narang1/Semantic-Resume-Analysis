@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Node
+node_modules/
+dist/
+build/
+npm-debug.log*
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+
+# Datasets / Large Files
+data_archive/
+*.csv
+*Resume.csv
+*.zip
+*.tar.gz
+*.pdf
+*.docx

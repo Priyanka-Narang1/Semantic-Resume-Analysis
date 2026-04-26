@@ -1,0 +1,66 @@
+{
+  "DATE": {
+    "precision": 0.353,
+    "recall": 0.167,
+    "f1": 0.226,
+    "support": 36
+  },
+  "EDU": {
+    "precision": 0.583,
+    "recall": 0.344,
+    "f1": 0.433,
+    "support": 61
+  },
+  "EMAIL": {
+    "precision": 0.333,
+    "recall": 0.15,
+    "f1": 0.207,
+    "support": 20
+  },
+  "EXP": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0,
+    "support": 6
+  },
+  "LOC": {
+    "precision": 0.437,
+    "recall": 0.738,
+    "f1": 0.549,
+    "support": 42
+  },
+  "ORG": {
+    "precision": 0.433,
+    "recall": 0.366,
+    "f1": 0.397,
+    "support": 71
+  },
+  "PERSON": {
+    "precision": 0.955,
+    "recall": 0.875,
+    "f1": 0.913,
+    "support": 24
+  },
+  "ROLE": {
+    "precision": 0.536,
+    "recall": 0.312,
+    "f1": 0.395,
+    "support": 48
+  },
+  "SKILL": {
+    "precision": 0.062,
+    "recall": 0.056,
+    "f1": 0.059,
+    "support": 18
+  },
+  "_meta": {
+    "best_f1": 0.422,
+    "macro_f1": 0.353,
+    "n_train": 124,
+    "n_val": 23,
+    "n_iter": 50,
+    "dropout": 0.2,
+    "augmentation": "None (Clean-First Mode)",
+    "base_model": "en_core_web_sm (transfer)"
+  }
+}

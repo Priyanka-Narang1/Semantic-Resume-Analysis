@@ -1,0 +1,317 @@
+{
+  "categories": {
+    "programming_languages": {
+      "label": "Programming Languages",
+      "skills": ["python","java","javascript","typescript","c++","c#","go","rust","kotlin","swift","r","scala","php","ruby","matlab","perl","bash","shell","sql","dart","lua","haskell","elixir","clojure","fortran","cobol","vba","groovy","objective-c","assembly"]
+    },
+    "web_frameworks": {
+      "label": "Web Frameworks",
+      "skills": ["react","angular","vue","django","flask","fastapi","spring","express","nextjs","nodejs","laravel","rails","asp.net","nuxtjs","svelte","gatsby","remix","nestjs","koa","hapi","strapi","wordpress","drupal","shopify","webflow"]
+    },
+    "databases": {
+      "label": "Databases",
+      "skills": ["sql","mysql","postgresql","mongodb","redis","sqlite","oracle","cassandra","elasticsearch","dynamodb","firebase","supabase","neo4j","influxdb","snowflake","bigquery","hive","hbase","couchdb","mariadb"]
+    },
+    "cloud_devops": {
+      "label": "Cloud and DevOps",
+      "skills": ["aws","azure","gcp","docker","kubernetes","jenkins","git","github","gitlab","terraform","ansible","linux","ci/cd","nginx","apache","cloudflare","heroku","vercel","netlify","github actions","circleci","prometheus","grafana","elk stack","datadog","new relic"]
+    },
+    "ml_ai": {
+      "label": "Machine Learning and AI",
+      "skills": ["machine learning","deep learning","tensorflow","pytorch","keras","scikit-learn","nlp","computer vision","data science","pandas","numpy","matplotlib","neural networks","transformers","llm","xgboost","lightgbm","random forest","gradient boosting","reinforcement learning","generative ai","stable diffusion","langchain","hugging face","openai api","feature engineering","model deployment","mlops","time series","recommendation systems","a/b testing","statistical modeling","bayesian inference"]
+    },
+    "data_engineering": {
+      "label": "Data Engineering",
+      "skills": ["spark","hadoop","kafka","airflow","etl","data pipeline","data warehouse","tableau","power bi","looker","dbt","databricks","flink","beam","nifi","pentaho","informatica","talend","redshift","azure synapse"]
+    },
+    "design_ui_ux": {
+      "label": "Design and UI/UX",
+      "skills": ["figma","sketch","adobe xd","invision","zeplin","prototyping","wireframing","user research","usability testing","information architecture","design systems","ui design","ux design","interaction design","visual design","motion design","accessibility","wcag","responsive design","design thinking","user journey mapping","persona creation","a/b testing design","heuristic evaluation","affinity mapping"]
+    },
+    "graphic_design": {
+      "label": "Graphic and Visual Design",
+      "skills": ["photoshop","illustrator","indesign","after effects","premiere pro","canva","coreldraw","lightroom","blender","cinema 4d","3ds max","unity","unreal engine","brand identity","typography","color theory","print design","packaging design","motion graphics","video editing","storyboarding"]
+    },
+    "mobile": {
+      "label": "Mobile Development",
+      "skills": ["android","ios","react native","flutter","xamarin","swift","kotlin","xcode","android studio","mobile ui","push notifications","app store optimization","firebase","expo"]
+    },
+    "security": {
+      "label": "Security and Cybersecurity",
+      "skills": ["cybersecurity","penetration testing","encryption","oauth","jwt","ssl","firewall","siem","soc","vulnerability assessment","ethical hacking","network security","cloud security","devsecops","iam","zero trust","owasp","kali linux","burp suite","wireshark","nmap"]
+    },
+    "testing": {
+      "label": "Testing and QA",
+      "skills": ["unit testing","selenium","pytest","jest","cypress","tdd","bdd","postman","jmeter","appium","testng","junit","mocha","chai","playwright","load testing","performance testing","manual testing","test automation","qa"]
+    },
+    "soft_skills": {
+      "label": "Soft Skills",
+      "skills": ["communication","leadership","teamwork","problem solving","critical thinking","project management","agile","scrum","time management","collaboration","presentation","negotiation","conflict resolution","mentoring","coaching","decision making","adaptability","creativity","empathy","stakeholder management","cross-functional collaboration","public speaking","active listening","emotional intelligence","strategic thinking"]
+    },
+    "business_management": {
+      "label": "Business and Management",
+      "skills": ["business analysis","business development","operations management","supply chain","lean six sigma","change management","strategic planning","risk management","consulting","market research","competitive analysis","business intelligence","process improvement","product strategy","go-to-market","revenue growth","p&l management","team building","vendor management","contract management"]
+    },
+    "marketing_growth": {
+      "label": "Marketing and Growth",
+      "skills": ["digital marketing","seo","sem","content marketing","social media marketing","email marketing","google analytics","google ads","facebook ads","copywriting","brand management","growth hacking","conversion optimization","marketing automation","hubspot","salesforce","crm","influencer marketing","affiliate marketing","performance marketing","market segmentation","campaign management","pr","public relations"]
+    },
+    "product_management": {
+      "label": "Product Management",
+      "skills": ["product management","product roadmap","user stories","backlog management","product analytics","stakeholder management","go-to-market strategy","product discovery","okrs","kpis","competitive analysis","customer interviews","jobs to be done","product metrics","prioritization","release management","product strategy","feature specification","mvp","product led growth","jira","confluence","mixpanel","amplitude"]
+    },
+    "finance_accounting": {
+      "label": "Finance and Accounting",
+      "skills": ["financial analysis","financial modeling","excel","valuation","accounting","bookkeeping","budgeting","forecasting","investment analysis","equity research","portfolio management","risk analysis","derivatives","fixed income","corporate finance","mergers and acquisitions","due diligence","financial reporting","ifrs","gaap","taxation","audit","cost accounting","sap","quickbooks","tally"]
+    },
+    "hr_people": {
+      "label": "Human Resources",
+      "skills": ["recruitment","talent acquisition","onboarding","employee relations","performance management","compensation and benefits","hris","workday","succession planning","learning and development","organizational development","labor law","payroll","hr analytics","culture building","diversity and inclusion","employee engagement","workforce planning","talent management","job evaluation"]
+    },
+    "legal": {
+      "label": "Legal",
+      "skills": ["contract law","corporate law","intellectual property","litigation","legal research","legal drafting","compliance","regulatory affairs","mergers and acquisitions legal","employment law","criminal law","civil law","family law","real estate law","tax law","international law","arbitration","mediation","legal writing","due diligence legal","data privacy","gdpr","legal technology"]
+    },
+    "content_writing": {
+      "label": "Content and Writing",
+      "skills": ["content writing","technical writing","copywriting","blogging","journalism","proofreading","editing","ghostwriting","ux writing","documentation","api documentation","grant writing","academic writing","creative writing","script writing","report writing","social media content","newsletter writing","seo writing","content strategy"]
+    },
+    "data_analytics": {
+      "label": "Data Analytics and Visualization",
+      "skills": ["data analysis","excel","tableau","power bi","google analytics","sql","python","r","statistics","hypothesis testing","regression analysis","data visualization","reporting","dashboards","looker studio","qlik","spss","sas","data storytelling","kpi tracking"]
+    },
+    "embedded_hardware": {
+      "label": "Embedded Systems and Hardware",
+      "skills": ["embedded c","arduino","raspberry pi","iot","fpga","vhdl","verilog","microcontrollers","rtos","can bus","uart","spi","i2c","pcb design","altium","eagle","oscilloscope","signal processing","plc","scada","matlab simulink","embedded linux","firmware"]
+    },
+    "networking": {
+      "label": "Networking and Infrastructure",
+      "skills": ["networking","tcp/ip","dns","dhcp","vpn","routing","switching","cisco","ccna","network design","load balancing","cdn","sdwan","bgp","ospf","wireshark","packet analysis","firewall configuration","network security","5g","wifi","ipsec"]
+    }
+  },
+
+  "transferable_skills": {
+    "react": ["vue","angular","javascript","svelte","nextjs"],
+    "vue": ["react","angular","javascript","nuxtjs"],
+    "angular": ["react","vue","typescript"],
+    "pytorch": ["tensorflow","keras","deep learning","jax"],
+    "tensorflow": ["pytorch","keras","deep learning"],
+    "keras": ["tensorflow","pytorch","deep learning"],
+    "django": ["flask","fastapi","rails"],
+    "flask": ["django","fastapi"],
+    "fastapi": ["django","flask"],
+    "mysql": ["postgresql","sql","mariadb"],
+    "postgresql": ["mysql","sql"],
+    "mongodb": ["dynamodb","couchdb","firebase"],
+    "aws": ["azure","gcp"],
+    "azure": ["aws","gcp"],
+    "gcp": ["aws","azure"],
+    "kubernetes": ["docker","devops"],
+    "docker": ["kubernetes","devops"],
+    "java": ["kotlin","scala","spring"],
+    "python": ["r","matlab"],
+    "r": ["python","statistics"],
+    "spark": ["hadoop","kafka","flink"],
+    "hadoop": ["spark","hive"],
+    "kafka": ["spark","rabbitmq"],
+    "scrum": ["agile","project management"],
+    "agile": ["scrum","project management"],
+    "scikit-learn": ["machine learning","xgboost","lightgbm"],
+    "xgboost": ["lightgbm","scikit-learn","gradient boosting"],
+    "lightgbm": ["xgboost","scikit-learn"],
+    "pandas": ["numpy","data science","r"],
+    "numpy": ["pandas","matlab","scipy"],
+    "react native": ["flutter","xamarin","mobile"],
+    "flutter": ["react native","dart","mobile"],
+    "android": ["kotlin","java"],
+    "ios": ["swift","objective-c"],
+    "figma": ["sketch","adobe xd","invision"],
+    "sketch": ["figma","adobe xd"],
+    "adobe xd": ["figma","sketch"],
+    "photoshop": ["illustrator","canva","gimp"],
+    "illustrator": ["photoshop","inkscape"],
+    "tableau": ["power bi","looker","data visualization"],
+    "power bi": ["tableau","looker"],
+    "google analytics": ["mixpanel","amplitude","adobe analytics"],
+    "seo": ["sem","content marketing","digital marketing"],
+    "sem": ["seo","google ads","digital marketing"],
+    "recruitment": ["talent acquisition","hr","onboarding"],
+    "financial modeling": ["excel","valuation","financial analysis"],
+    "excel": ["google sheets","financial modeling","data analysis"],
+    "product management": ["product roadmap","agile","stakeholder management"],
+    "content writing": ["copywriting","blogging","seo writing"],
+    "copywriting": ["content writing","ux writing"],
+    "user research": ["usability testing","ux design","persona creation"],
+    "ux design": ["ui design","figma","user research"],
+    "ui design": ["ux design","figma","visual design"],
+    "machine learning": ["deep learning","data science","scikit-learn"],
+    "deep learning": ["machine learning","neural networks","pytorch"],
+    "nlp": ["machine learning","transformers","text analysis"],
+    "computer vision": ["deep learning","pytorch","opencv"],
+    "embedded c": ["c++","arduino","microcontrollers"],
+    "fpga": ["vhdl","verilog","embedded c"],
+    "ccna": ["networking","cisco","network security"],
+    "contract law": ["corporate law","legal drafting","compliance"],
+    "digital marketing": ["seo","social media marketing","content marketing"],
+    "business analysis": ["product management","requirements gathering","stakeholder management"],
+    "project management": ["agile","scrum","jira"],
+    "data analysis": ["excel","sql","python","r"],
+    "accounting": ["bookkeeping","excel","financial reporting"],
+    "javascript": ["typescript","nodejs","react"],
+    "typescript": ["javascript","angular","react"],
+    "c++": ["c","embedded c","java"],
+    "go": ["rust","backend development"],
+    "rust": ["go","c++","systems programming"],
+    "git": ["github","gitlab","version control"],
+    "linux": ["bash","shell","devops"],
+    "terraform": ["ansible","cloudformation","devops"]
+  },
+
+  "role_skill_map": {
+    "data scientist": {
+      "required": ["python","machine learning","statistics","pandas","numpy","sql","data visualization"],
+      "preferred": ["deep learning","tensorflow","pytorch","spark","tableau","r","mlops","feature engineering"],
+      "soft": ["communication","problem solving","critical thinking","presentation"]
+    },
+    "software engineer": {
+      "required": ["python","data structures","algorithms","git","sql","unit testing"],
+      "preferred": ["docker","aws","react","nodejs","ci/cd","system design"],
+      "soft": ["teamwork","problem solving","communication","code review"]
+    },
+    "frontend developer": {
+      "required": ["javascript","html","css","react","git","responsive design"],
+      "preferred": ["typescript","vue","nextjs","figma","performance optimization","accessibility"],
+      "soft": ["communication","teamwork","attention to detail","collaboration"]
+    },
+    "backend developer": {
+      "required": ["python","sql","api design","git","postgresql","system design"],
+      "preferred": ["docker","aws","redis","django","fastapi","microservices","caching"],
+      "soft": ["problem solving","communication","teamwork"]
+    },
+    "ml engineer": {
+      "required": ["python","machine learning","deep learning","tensorflow","pytorch","mlops"],
+      "preferred": ["docker","aws","spark","kubernetes","feature engineering","model serving"],
+      "soft": ["problem solving","critical thinking","communication"]
+    },
+    "devops engineer": {
+      "required": ["linux","docker","kubernetes","ci/cd","git","aws","terraform"],
+      "preferred": ["ansible","prometheus","grafana","jenkins","python","security"],
+      "soft": ["problem solving","teamwork","communication"]
+    },
+    "full stack developer": {
+      "required": ["javascript","react","nodejs","sql","git","html","css","api design"],
+      "preferred": ["typescript","docker","aws","postgresql","redis","testing"],
+      "soft": ["problem solving","communication","teamwork"]
+    },
+    "data analyst": {
+      "required": ["sql","python","excel","statistics","data visualization"],
+      "preferred": ["tableau","power bi","pandas","r","machine learning","google analytics"],
+      "soft": ["communication","critical thinking","attention to detail","presentation"]
+    },
+    "android developer": {
+      "required": ["java","kotlin","android","git","android studio"],
+      "preferred": ["jetpack compose","firebase","rest api","mvvm","unit testing"],
+      "soft": ["problem solving","teamwork","communication"]
+    },
+    "ios developer": {
+      "required": ["swift","ios","xcode","git"],
+      "preferred": ["objective-c","swiftui","firebase","rest api","testing"],
+      "soft": ["problem solving","teamwork","communication"]
+    },
+    "ui ux designer": {
+      "required": ["figma","ux design","ui design","wireframing","prototyping","user research"],
+      "preferred": ["sketch","adobe xd","usability testing","design systems","motion design","html","css"],
+      "soft": ["communication","empathy","presentation","collaboration","creativity"]
+    },
+    "graphic designer": {
+      "required": ["photoshop","illustrator","indesign","typography","color theory","brand identity"],
+      "preferred": ["after effects","canva","figma","motion graphics","print design","3d design"],
+      "soft": ["creativity","communication","attention to detail","collaboration"]
+    },
+    "product manager": {
+      "required": ["product roadmap","user stories","stakeholder management","agile","product analytics","product strategy"],
+      "preferred": ["sql","jira","product metrics","a/b testing","figma","okrs","customer interviews"],
+      "soft": ["communication","leadership","critical thinking","decision making","cross-functional collaboration"]
+    },
+    "business analyst": {
+      "required": ["business analysis","requirements gathering","sql","excel","stakeholder management","process improvement"],
+      "preferred": ["power bi","tableau","project management","jira","uml","financial modeling"],
+      "soft": ["communication","critical thinking","problem solving","presentation","collaboration"]
+    },
+    "hr manager": {
+      "required": ["recruitment","talent acquisition","employee relations","performance management","hris","labor law"],
+      "preferred": ["workday","compensation and benefits","learning and development","hr analytics","onboarding","payroll"],
+      "soft": ["communication","empathy","leadership","conflict resolution","collaboration"]
+    },
+    "digital marketer": {
+      "required": ["digital marketing","seo","google analytics","content marketing","social media marketing","sem"],
+      "preferred": ["google ads","email marketing","marketing automation","hubspot","copywriting","conversion optimization"],
+      "soft": ["creativity","communication","analytical thinking","collaboration","adaptability"]
+    },
+    "content writer": {
+      "required": ["content writing","seo writing","research","copywriting","editing","proofreading"],
+      "preferred": ["wordpress","blogging","technical writing","social media content","email marketing","content strategy"],
+      "soft": ["creativity","communication","time management","attention to detail","adaptability"]
+    },
+    "financial analyst": {
+      "required": ["financial analysis","financial modeling","excel","accounting","valuation","financial reporting"],
+      "preferred": ["python","r","bloomberg","bloomberg terminal","sql","investment analysis","risk analysis"],
+      "soft": ["analytical thinking","communication","attention to detail","problem solving","presentation"]
+    },
+    "cybersecurity analyst": {
+      "required": ["cybersecurity","network security","vulnerability assessment","siem","linux","ethical hacking"],
+      "preferred": ["penetration testing","kali linux","cloud security","python","scripting","compliance"],
+      "soft": ["problem solving","critical thinking","communication","attention to detail"]
+    },
+    "cloud architect": {
+      "required": ["aws","azure","gcp","terraform","kubernetes","docker","networking","security"],
+      "preferred": ["devops","ci/cd","microservices","cost optimization","disaster recovery","serverless"],
+      "soft": ["communication","leadership","problem solving","strategic thinking"]
+    },
+    "data engineer": {
+      "required": ["python","sql","spark","kafka","airflow","etl","data pipeline","cloud"],
+      "preferred": ["dbt","databricks","flink","scala","docker","snowflake","data modeling"],
+      "soft": ["problem solving","communication","teamwork","attention to detail"]
+    },
+    "mobile developer": {
+      "required": ["react native","flutter","javascript","git","api integration","mobile ui"],
+      "preferred": ["typescript","firebase","ios","android","testing","app store optimization"],
+      "soft": ["problem solving","teamwork","communication"]
+    },
+    "embedded systems engineer": {
+      "required": ["embedded c","c++","microcontrollers","rtos","git","hardware debugging"],
+      "preferred": ["fpga","vhdl","arduino","raspberry pi","linux","iot","pcb design"],
+      "soft": ["problem solving","attention to detail","teamwork","communication"]
+    },
+    "ai ml intern": {
+      "required": ["python","machine learning","pandas","numpy","scikit-learn","git"],
+      "preferred": ["deep learning","tensorflow","pytorch","sql","data visualization","nlp"],
+      "soft": ["communication","teamwork","problem solving","eagerness to learn"]
+    },
+    "software intern": {
+      "required": ["python","git","data structures","algorithms","sql"],
+      "preferred": ["javascript","react","nodejs","docker","testing"],
+      "soft": ["communication","teamwork","eagerness to learn","problem solving"]
+    },
+    "research analyst": {
+      "required": ["research","data analysis","excel","report writing","statistics","critical thinking"],
+      "preferred": ["python","r","sql","tableau","literature review","academic writing"],
+      "soft": ["analytical thinking","communication","attention to detail","curiosity"]
+    },
+    "project manager": {
+      "required": ["project management","agile","scrum","stakeholder management","risk management","jira"],
+      "preferred": ["pmp","budget management","resource planning","ms project","change management","reporting"],
+      "soft": ["leadership","communication","problem solving","decision making","conflict resolution"]
+    },
+    "legal associate": {
+      "required": ["legal research","legal drafting","contract law","compliance","corporate law"],
+      "preferred": ["litigation","intellectual property","employment law","data privacy","legal technology"],
+      "soft": ["communication","attention to detail","analytical thinking","negotiation","ethics"]
+    },
+    "accountant": {
+      "required": ["accounting","tally","excel","bookkeeping","financial reporting","taxation","gaap"],
+      "preferred": ["sap","quickbooks","audit","cost accounting","financial modeling","ifrs"],
+      "soft": ["attention to detail","communication","problem solving","integrity","time management"]
+    }
+  }
+}
